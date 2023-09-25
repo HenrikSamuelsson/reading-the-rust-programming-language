@@ -2,6 +2,4 @@
 
 Notes and projects related to reading the book The Rust Programming Language, by Steve Klabnik, Carol Nichols.
 
-Reading an [online html version](https://doc.rust-lang.org/book/). This online version should be more or less the same as [this version](https://nostarch.com/Rust2018), sold by No Starch Press.
-
-Have now also got the paper back of the 2018 edition of this book.
+Reading an [e-book version bought from Google Books](https://books.google.se/books?id=a8l9EAAAQBAJ&source=gbs_book_other_versions) there is also a free [online html version](https://doc.rust-lang.org/book/). The content in both these versions should, according to my understanding, be similar.
